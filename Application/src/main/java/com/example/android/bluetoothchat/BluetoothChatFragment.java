@@ -76,9 +76,6 @@ public class BluetoothChatFragment extends Fragment {
      */
     private StringBuffer mOutStringBuffer;
 
-    /**
-     * Local Bluetooth adapter
-     */
     private BluetoothAdapter mBluetoothAdapter = null;
 
     /**
