@@ -78,9 +78,6 @@ public class BluetoothChatFragment extends Fragment {
 
     private BluetoothAdapter mBluetoothAdapter = null;
 
-    /**
-     * Member object for the chat services
-     */
     private BluetoothChatService mChatService = null;
 
     @Override
